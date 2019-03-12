@@ -8,3 +8,8 @@ Green
 Yellow
 Red
 These are the colors of the rainbow.
+Maroon
+Aqua
+Turquoise
+Macaroni and Cheese
+Pepto Bismol Pink
